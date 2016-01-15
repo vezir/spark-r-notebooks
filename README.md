@@ -12,7 +12,13 @@ Kullanacağımız ortam [Jypter notebook](http://jupyter.org/) default olarak Py
 Tabii [Spark](https://spark.apache.org/docs/latest/index.html) ın kurulumunun yapıldığını kabul ediyorum. Bunun için gerekirse ayrı bir sayfa açabiliriz. [Hadoop](http://hadoop.apache.org/releases.html) kurulumu opsiyoneldir. Yeri gelince bunun nedenini açıklayacağım. Java ve [Scala](http://www.scala-lang.org/) kurulumu yapıldığını da kabul ediyoruz.
 
 #Veri Seti
-Veri seti olarak yeterince büyük olması ve veri biliminin önde gelen sitelerinden [Kaggle](https://www.kaggle.com/) da detayları verilmiş bir veri seti [2013 American Community Survey dataset](https://www.kaggle.com/census/2013-american-community-survey) i seçiyoruz.
+Büyük veri ile ilgili bir çalışmanın en önemli başlangıç unsuru tabiiki büyük bir veridir. Günümüzde sıradan insanların büyük veriye erişmesi hiç olmadığı kadar kolaylaşmıştır. Hatta bu veriler bazı iş ihtiyaçları için bile kullanılabilir. Burada özellikle birkaç büyük veri kaynağı vereceğim. Bunun için [Big Data: 20 Free Big Data Sources Everyone Should Know](http://www.smartdatacollective.com/bernardmarr/235366/big-data-20-free-big-data-sources-everyone-should-know) daki kaynaklar iyi bir başlangıçtır.
+
+Veri seti olarak yeterince büyük olması ve veri biliminin önde gelen sitelerinden Kaggle da detayları verildiği için [2013 American Community Survey](https://www.kaggle.com/census/2013-american-community-survey) verisetini seçiyoruz.
+
+Veri seti olarak ABD de yol kazalarında yaralanmalar [Road Traffic Injuries 2002-2010](http://www.healthdata.gov/dataset/road-traffic-injuries-2002-2010) ile ilgili verileri aldım.
+
+
 
 #Temel başlıklarımız
 1. [Verinin yüklenmesi ve SparkR ın başlatılması](https://github.com/vezir/spark-r-notebooks/blob/master/notebooks/1-baslangic/baslangic.ipynb)
