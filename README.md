@@ -1,5 +1,7 @@
 # SparkR notebooks
 
+https://gitter.im/vezir/spark-r-notebooks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Bu [Jupyter notebook](http://jupyter.org/) ların hazırlanma amacı, okuyucuyu [Apache Spark](spark.apache.org) daki bazı kavramlar konusunda, **R** dili kullanarak basitten ileri seviyeye doğru eğitmek amacı ile yazılmıştır.
 
 Bu çalışma [Jose A Dianes](https://github.com/jadianes) in aynı isimli güzel [tutorial](https://github.com/jadianes/spark-r-notebooks) ından esinlenerek hazırlanmıştır. İlgilisinin başka bir veri seti ile hazırlanan o tutorial u da incelemesini öneririm.
