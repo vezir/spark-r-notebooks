@@ -1,6 +1,6 @@
 # SparkR notebooks
 
-https://gitter.im/vezir/spark-r-notebooks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[![Join the chat at https://gitter.im/vezir/spark-r-notebooks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vezir/spark-r-notebooks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Bu [Jupyter notebook](http://jupyter.org/) ların hazırlanma amacı, okuyucuyu [Apache Spark](spark.apache.org) daki bazı kavramlar konusunda, **R** dili kullanarak basitten ileri seviyeye doğru eğitmek amacı ile yazılmıştır.
 
